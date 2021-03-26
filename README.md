@@ -1,0 +1,2 @@
+# mindhelper
+helper for mind
