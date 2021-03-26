@@ -3,7 +3,7 @@
         {
             "formulas":[
                 {
-                    "formulaName":"name",
+                    "name":"name",
                     "formula":"formula"
                 }
             ]
