@@ -1,0 +1,25 @@
+{
+  "name": "mindhelper-dev",
+  "version": "0.0.1",
+  "description": "helper for mind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pessiv/mindhelper.git"
+  },
+  "keywords": [
+    "helper"
+  ],
+  "author": "Pessi V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pessiv/mindhelper/issues"
+  },
+  "homepage": "https://github.com/pessiv/mindhelper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
