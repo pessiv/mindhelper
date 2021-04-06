@@ -43,6 +43,17 @@
                     "associatedIdeas":[]
                 }
             ]
+        },
+        {
+            "moves":[
+                {
+                    "date":0,
+                    "mname":"name",
+                    "posx":0,
+                    "posy":0,
+                    "posz":0
+                }
+            ]
         }
     ]
 }
