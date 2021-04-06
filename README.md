@@ -38,4 +38,5 @@ helper for mind
 - getAllPeople()
 - assignDateToSpecificPersonByIds()
 - assignIdeaToSpecificPersonByIds()
+- storeMove()
 - getEverything()
